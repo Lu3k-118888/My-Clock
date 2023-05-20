@@ -1,0 +1,22 @@
+#myTime {
+  color: rgb(255, 255, 255);
+  text-shadow: 0 0 15px #FF0000;
+  font-size: 200px;
+}
+
+
+body {
+    background-color: rgb(43, 40, 40);
+}
+
+#head {
+  box-shadow: 0 0 15px rgb(47, 255, 165);
+  background-color: rgb(244, 217, 243);
+  color: rgb(0, 132, 255);
+  text-shadow: 0 0 7px #63ffff;
+}
+#head h1 {
+  font-size: 50px;
+  font-style: italic;
+  margin-left: 50%;
+}
